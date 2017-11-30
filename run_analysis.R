@@ -1,5 +1,4 @@
 library(reshape2)
-setwd("C:\\Users\\Feder\\Desktop\\UCI HAR Dataset")
 
 # STEP 1. read and merge data sets.
 
